@@ -1,4 +1,7 @@
-# high-secured-api
+# RainyDay
 ps: public api
 
-to run the program pip install requests
+
+nhentai.net with simple GUI
+
+to run the program pip install requests, pillow, colorama 
